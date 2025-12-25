@@ -6,7 +6,7 @@ import pyautogui
 
 
 
-TARGET_ID = "Chromium.J3AB5JMWF22VFJFUFAIBDIC7EE";
+TARGET_ID = "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify";
 
 from winsdk.windows.media.control import \
     GlobalSystemMediaTransportControlsSessionManager as MediaManager
